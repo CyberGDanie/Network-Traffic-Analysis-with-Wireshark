@@ -30,8 +30,9 @@
 
 
 
-6.Inspected packet contents by expanding the packet details to inspect the headers and payload of each layer ( Ethernet, IP, TCP, etc).
+6. Inspected packet contents by expanding the packet details to inspect the headers and payload of each layer ( Ethernet, IP, TCP, etc).
 
+7. Saved Capute as a pcap file for future analysis.
 
 
 ## Tools Used
