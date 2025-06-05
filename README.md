@@ -5,9 +5,7 @@
 
 **Project: Network Traffic Analysis with Wireshark.**
 
-**Network Traffic Analysis with Wireshark.** 
-
-1. Downloaded and Installed Wireshark 
+1. Downloaded and Installed Wireshark on Ubuntu Machine. 
 
 2. Selected Network interface to capture traffic. 
 
