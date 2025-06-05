@@ -13,9 +13,9 @@
 
 4. Analyze Network Traffic by filtering with the following filters  : TCP, HTTP, Ip.Addr= 104.22.10.26 ( for specific IP address).
 
-6. Followed TCP/UDP streams by right clicking and chosing TCP or UDP to see the entire conversation. 
+5. Followed TCP/UDP streams by right clicking and chosing TCP or UDP to see the entire conversation. 
 
-5.Inspected packet contents.
+6.Inspected packet contents.
 
 
 
