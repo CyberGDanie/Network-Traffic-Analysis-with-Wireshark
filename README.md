@@ -20,11 +20,13 @@
 ![filtered by specific IP address](https://github.com/user-attachments/assets/7c07f013-0628-4bdc-b78a-5ec1f8113481)
 
 
+
 ![filtered by tcp](https://github.com/user-attachments/assets/fb8db74d-f1d9-4034-be98-f278823d27b1)
 
 
 
 5. Followed TCP streams by right clicking and chosing TCP to see the entire conversation.
+
 
 ![tcp streams](https://github.com/user-attachments/assets/4c4ba74b-534b-4fa5-9483-5076cb0297a8)
 
@@ -32,8 +34,10 @@
 
 6. Inspected packet contents by expanding the packet details to inspect the headers and payload of each layer ( Ethernet, IP, TCP, etc).
 
-7. Saved Capute as a pcap file for future analysis.
+
+7. Saved Capute as a .pcap file for future analysis.
 
 
 ## Tools Used
+
 Ubuntu Virtual Machine, Wireshark.
