@@ -33,7 +33,7 @@
 6. Inspected packet contents by expanding the packet details to inspect the headers and payload of each layer ( Ethernet, IP, TCP, etc).
 
 
-7. Saved Capute as a .pcap file for future analysis.
+7. Saved Capture as a .pcap file for future analysis.
 
 
 ## Tools Used
