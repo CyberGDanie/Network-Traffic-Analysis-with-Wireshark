@@ -10,12 +10,24 @@
 2. Selected Network interface to capture traffic. 
 
 3. Captured Network traffic on enp0s3 by visiting websites to generate HTTP/HTTPS taffic.
+   
+![Screenshot 2025-06-04 224948](https://github.com/user-attachments/assets/c99dda50-4359-4ee2-bfe2-d76883357dbc)
 
-4. Analyze Network Traffic by filtering with the following filters  : TCP, HTTP, Ip.Addr= 104.22.10.26 ( for specific IP address).
+
+4. Analyze Network Traffic by filtering with the following filters - TCP, HTTP, Ip.Addr= 104.22.10.26 ( for specific IP address).
+
+   
+![filtered by specific IP address](https://github.com/user-attachments/assets/7c07f013-0628-4bdc-b78a-5ec1f8113481)
+
+
+![filtered by tcp](https://github.com/user-attachments/assets/fb8db74d-f1d9-4034-be98-f278823d27b1)
+
+
 
 5. Followed TCP/UDP streams by right clicking and chosing TCP or UDP to see the entire conversation. 
 
-6.Inspected packet contents.
+
+  6.Inspected packet contents.
 
 
 
