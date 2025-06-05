@@ -1,4 +1,4 @@
-## Projects
+## Netwrok Secutity Projects- Wireshark
 **Project 2**: Network Traffic Analysis with Wireshark. 
   
 ## Setup Instructions
