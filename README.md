@@ -24,10 +24,13 @@
 
 
 
-5. Followed TCP/UDP streams by right clicking and chosing TCP or UDP to see the entire conversation. 
+5. Followed TCP streams by right clicking and chosing TCP to see the entire conversation.
+
+![tcp streams](https://github.com/user-attachments/assets/4c4ba74b-534b-4fa5-9483-5076cb0297a8)
 
 
-  6.Inspected packet contents.
+
+6.Inspected packet contents by expanding the packet details to inspect the headers and payload of each layer ( Ethernet, IP, TCP, etc).
 
 
 
