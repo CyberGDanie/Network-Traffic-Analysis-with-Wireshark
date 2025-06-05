@@ -1,9 +1,7 @@
-## Netwrok Secutity Projects- Wireshark
+## Network Security Projects- Network Traffic Analysis with Wireshark.
 **Project 2**: Network Traffic Analysis with Wireshark. 
   
 ## Setup Instructions
-
-**Project: Network Traffic Analysis with Wireshark.**
 
 1. Downloaded and Installed Wireshark on Ubuntu Machine. 
 
