@@ -11,9 +11,7 @@
 
 3. Captured Network traffic on enp0s3 by visiting websites to generate HTTP/HTTPS taffic.
 
-4. Analyze Network Traffic by filtering with the following :
-
-5. TCP, Ip.Addr= 104.22.10.26
+4. Analyze Network Traffic by filtering with the following filters  : TCP, HTTP, Ip.Addr= 104.22.10.26 ( for specific IP address).
 
 6. Followed TCP/UDP streams by right clicking and chosing TCP or UDP to see the entire conversation. 
 
